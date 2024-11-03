@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">unit 1</string>
+    <string name="title">HECHOSHOP</string>
+    <string name="tagline">Design and Printing</string>
+    <string name="desc">We specialize in customized sticker and card printing services for personal and business needs.</string>
+    <string name="shopnow">Shop Now on Shopee</string>
+    <string name="instagram">hechoshop99</string>
+    <string name="email">hechoshop99@gmail.com</string>
+</resources>
